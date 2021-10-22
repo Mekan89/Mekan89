@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mekan89
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning MERN stack development
+- 🌱 I’m MERN stack and Flutter developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +99361313614, mekanallanov@gmail.com
 
