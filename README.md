@@ -1,6 +1,5 @@
 - 👨‍💻  Mekan89
-- ⏭️  NextJS developer
-- 🐦  Flutter developer
+- ⏭️  React, React Native developer
 - 📫  mekanallanov@gmail.com
 - 📱 +99361313614 
 
