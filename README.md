@@ -1,5 +1,5 @@
 - 👨‍💻  Mekan89
-- ⏭️  React, React Native developer
+- ⏭️  React, React Native, Node, Mongo
 - 📫  mekanallanov@gmail.com
 - 📱 +99361313614 
 
