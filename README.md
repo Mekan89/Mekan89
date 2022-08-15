@@ -1,5 +1,5 @@
 - 👨‍💻  Mekan89
-- ⏭️  React, React Native, Node, Mongo
+- ⏭️  MERN Stack, React Native
 - 📫  mekanallanov@gmail.com
 - 📱 +99361313614 
 
