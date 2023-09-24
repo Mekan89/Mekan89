@@ -1,5 +1,5 @@
 - 👨‍💻  Mekan89
-- ⏭️  MERN Stack, React Native
+- ⏭️  React, Svelte, iOS Developer
 - 📫  mekanallanov@gmail.com
 - 📱 +99361313614 
 
