@@ -1,7 +1,7 @@
 - 👨‍💻  Mekan89
-- ⏭️  React, Svelte, iOS Developer
+- ⏭️  React Full Stack, SwiftUI - iOS Developer
 - 📫  mekanallanov@gmail.com
-- 📱 +99361313614 
+- 📱 +99362938780 
 
 <!---
 Mekan89/Mekan89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
